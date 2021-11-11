@@ -1,0 +1,12 @@
+#sort-btn {
+ width: 16px;
+ height: 16px;
+ margin-left: 5px;
+ border: none;
+ background-color: transparent;
+ background-image: url("../../images/triangle.svg");
+}
+
+.arrow-down {
+ transform: rotate(180deg);
+}
